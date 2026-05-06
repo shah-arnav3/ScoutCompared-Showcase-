@@ -2,6 +2,8 @@
 
 **Advanced football player performance analysis and scouting tool built for the top 5 European leagues.**
 
+**[scoutcompared.com](https://scoutcompared.com)**
+
 ScoutCompare lets scouts, analysts, and fans rank players by position, run head-to-head comparisons, profile individual players with percentile-based radar charts, and assess entire squads — all through a clean, real-time web interface.
 
 ---
